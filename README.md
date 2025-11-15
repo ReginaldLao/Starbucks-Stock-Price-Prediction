@@ -65,7 +65,7 @@ jupyter notebook
 ```
 Starbucks-Stock-Price-Prediction/
 │
-├── Stock Price Prediction of Starbucks.ipynb   # Main notebook with analysis and models
+├── Stock Price Prediction of Starbucks.ipynb     # Main notebook with analysis and models
 ├── LICENSE                                       # MIT License
 └── README.md                                     # Project documentation
 ```
