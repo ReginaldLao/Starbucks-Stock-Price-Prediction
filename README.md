@@ -122,7 +122,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Reginald Lao** - [@ReginaldLao](https://github.com/ReginaldLao)
 
 Project Link: [https://github.com/ReginaldLao/Starbucks-Stock-Price-Prediction](https://github.com/ReginaldLao/Starbucks-Stock-Price-Prediction)
-
----
-
-⭐ If you found this project helpful, please consider giving it a star!
